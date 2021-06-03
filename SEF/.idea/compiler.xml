@@ -8,8 +8,8 @@
       <directory url="file://$PROJECT_DIR$/src/sef/module5" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/sef/module6" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/sef/module7" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/sef/module8" includeSubdirectories="false" />
-      <directory url="file://$PROJECT_DIR$/src/sef/module9" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/sef/module8" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/sef/module9" includeSubdirectories="false" />
       <directory url="file://$PROJECT_DIR$/src/sef/module10" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/sef/module11" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/sef/module12" includeSubdirectories="true" />
@@ -18,6 +18,7 @@
       <directory url="file://$PROJECT_DIR$/src/sef/module15" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/sef/module17" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/sef/module19" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/sef/FinalTask" includeSubdirectories="true" />
     </excludeFromCompile>
     <bytecodeTargetLevel target="16" />
   </component>
